@@ -1,0 +1,2 @@
+--Create github repository
+--Delete and edit files
