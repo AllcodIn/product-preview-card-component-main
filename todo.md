@@ -18,6 +18,11 @@ Text:
 
 --Start building index.html with a mobile-first approach --in progress--:
 
-    --build img-card
-    --build container
-    --fix container 
+    --build img-card --done--
+    --build container --done--
+    --fix container
+    --review main size
+
+--Start building desktop approach:
+--Handle size
+--
