@@ -20,9 +20,8 @@ Text:
 
     --build img-card --done--
     --build container --done--
-    --fix container
-    --review main size
+    next
+    --review main dimensions --done--
 
 --Start building desktop approach:
---Handle size
---
+--Handle img and container dimensions
