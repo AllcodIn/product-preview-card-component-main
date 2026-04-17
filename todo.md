@@ -16,7 +16,7 @@ Text:
 
 --Delete and edit files --done--
 
---Start building index.html with a mobile-first approach --in progress--:
+--Start building index.html with a mobile-first approach -- done --:
 
     --build img-card --done--
     --build container --done--
