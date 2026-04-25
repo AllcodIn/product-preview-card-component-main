@@ -11,11 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -35,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [product-preview-card-component-main]()
+- Live Site URL: [product-preview-card-component-main](https://allcodin.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -63,5 +59,6 @@ This code allow to put a default image and specify another image according to th
 
 ## Author
 
-- Frontend Mentor - [@AllcodIn](https://www.frontendmentor.io/profile/allcodin)
+- GitHub - [AllcodIn](https://github.com/AllcodIn/product-preview-card-component-main.git)
+- Frontend Mentor - [@AllcodIn](https://www.frontendmentor.io/profile/AllcodIn)
 
